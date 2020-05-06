@@ -24,7 +24,7 @@ def region_of_interest(image):
     # polygons = np.array([
     # [(50, height),(100, height),(670,355)]
     # ])
-    # polygons = np.array([
+    # polygons = np.array([ 
     # [(0, 350),(0, 450),(1280,450),(1280,350)]
     # ])
     mask = np.zeros_like(image)
