@@ -6,7 +6,7 @@ weight2 = 0.0
 bias = 0.0
 
 
-# DON'T CHANGE ANYTHING BELOW hi
+# DON'T CHANGE ANYTHING BELOW
 # Inputs and outputs
 test_inputs = [(0, 0), (0, 1), (1, 0), (1, 1)]
 correct_outputs = [False, False, False, True]
